@@ -1,0 +1,5 @@
+Straatnaam: Papendorpseweg (type: string)
+Huisnummer: 100 (type: integer)
+Postcode: 3528 BJ (type: string)
+Plaats: Utrecht (type: string)
+Land: Nederland (type: string)
