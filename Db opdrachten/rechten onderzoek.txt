@@ -1,0 +1,14 @@
+Create: Hiermee kunnen mensen nieuwe tabellen, databases of andere dingen maken in de database. Je kunt hiermee de structuur van de database veranderen, zoals het toevoegen van nieuwe soorten gegevens of het definiëren van nieuwe relaties.
+
+Alter: Met dit recht kun je dingen veranderen die al in de database staan. Je kunt dingen toevoegen, verwijderen of veranderen in een tabel, dingen een nieuwe naam geven en het soort gegevens aanpassen. Je kunt eigenlijk de hele databasestructuur aanpassen zonder dat je bestaande gegevens verliest.
+
+Grant: Hiermee kun je anderen het recht geven om bepaalde dingen te doen in de database. Je kunt bepalen welke andere mensen toegang hebben tot bepaalde gegevens of functies in de database. Handig als je taken wilt delegeren in de database.
+
+Backup: Hiermee kun je een kopie maken van de hele database of een deel ervan. Dit is belangrijk om ervoor te zorgen dat je gegevens veilig zijn en beschikbaar blijven als er iets misgaat of als je ze moet herstellen.
+
+Grant:
+Nodig als een beheerder anderen toegang wil geven tot specifieke dingen in de database. Bijvoorbeeld, iemand kan jou toegang geven om gegevens te lezen, maar niet om ze te veranderen. Maar pas op, want een hacker met Grant rechten kan misschien anderen ongeautoriseerde toegang geven tot gevoelige gegevens in de database. No bueno!
+
+Backup:
+Belangrijk als een beheerder regelmatig back-ups wil maken om te zorgen dat de gegevens veilig zijn. Back-ups worden gebruikt om gegevens te herstellen na bijvoorbeeld een crash, per ongeluk verwijderde gegevens of een cyberaanval. Maar let op, want een hacker met Backup rechten kan misschien toegang krijgen tot de hele database via de back-up. Dat betekent dat ze veel gevoelige gegevens kunnen stelen of gebruiken voor foute dingen. Niet cool!
+
